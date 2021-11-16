@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Business",
+      "Supply Chain Management"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "f05c0cd6-fbb5-080c-3a01-a4c4754ee9be"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "D-Lab: Supply Chains",
+  "course_description": "This course introduces concepts of supply chain design and operations with a focus on supply chains for products destined to improve quality of life in developing countries. Topics include demand estimation, capacity planning and process analysis, inventory management, and supply chain coordination and performance. We also cover issues specific to emerging markets, such as sustainable supply chains, how to couple product design with supply chain design and operation, and how to account for the value-adding role of a supply chain. A major aspect of class is the student projects on supply chain design or improvement.\n",
+  "department_numbers": [
+    "15",
+    "EC"
+  ],
+  "extra_course_numbers": "EC.733J",
+  "primary_course_number": "15.772J",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Projects with Examples",
+    "Design Assignments"
+  ],
+  "title": "Course Metadata"
+}
